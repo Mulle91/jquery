@@ -13,5 +13,21 @@
 	<button id="tilbage">Tilbage</button>
 	<button id="frem">Næste</button>
 
+	<script>
+		
+		function loadDoc() {
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatecahnge = function() {
+				if (this.readyState == 4 && this.status == 200) {
+					document.getElementById("demo").innerHtml = this.responseText;
+				}
+			};
+
+			xhttp.open("GET", "ajax_info.txt", true);
+			xhttp.send();
+		}
+
+	</script>
+
 </body>
 </html>
