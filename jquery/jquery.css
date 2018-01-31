@@ -1,0 +1,33 @@
+#mirage, #train, #cache, #inferno{
+	width: 385px;
+	padding: 25px;
+	margin: 25px
+	border: 2px solid grey;
+	outline-style: solid;
+	display: inline-block;
+	text-align: center;
+}
+
+#nuke, #cobblestone, #overpass, #dust2{
+	width: 385px;
+	padding: 25px;
+	margin: 25px
+	border: 2px solid grey;
+	outline-style: solid;
+	display: inline-block;
+	text-align: center;
+}
+
+.back {
+	outline-style: solid;
+}
+
+html {
+	max-width: 890px;
+}
+/*
+#mirage, #train, #cache, #inferno,#nuke, #cobblestone, #overpass, #dust2{
+	width: 50px;
+	height: 50px;
+}
+*/
