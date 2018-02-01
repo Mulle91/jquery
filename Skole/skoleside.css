@@ -1,11 +1,13 @@
 body{
-	background-color: red;
+	background-image: url("http://laoblogger.com/images/android-clipart-1280x800-9.jpg");
 }
 
 h1{
-	color: orange;
+	color: white;
+	text-align: center;
+	font-size: 75px;
 }
 
 h2{
-	color: orange;
+	color: white;
 }
