@@ -1,29 +1,27 @@
-#mirage, #train, #cache, #inferno{
-	width: 300px;
+#mirage, #train, #cache, #inferno {
+
+    width: 1000px;
     border: 2px solid gray;
     padding: 25px;
     margin: 25px;
     outline-style: solid;
     outline-color: black;
-    display: inline-block;
+   
     text-align: center;
+
+
+
 }
- #nuke, #cobblestone, #overpass, #dust2{
-	width: 300px;
-    border: 50px solid gray;
+
+#nuke, #cobblestone, #overpass, #dust2 {
+
+    width: 1000px;
+    border: 2px solid gray;
     padding: 25px;
     margin: 25px;
     outline-style: solid;
     outline-color: black;
-    display: inline-block;
+    
     text-align: center;
-}
 
-.back {
-	outline-style: solid;
-
-}
-
-html {
-	max-width: 890px;
 }
