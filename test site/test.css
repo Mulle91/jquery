@@ -14,8 +14,32 @@
     font-size: 12px;
 
 }
+#maps {
+    max-width: 400px; 
+    max-height: 1000px;
+    margin-top: -1100px;
+    display: inline-block;
+    position: absolute;
+}
+
+#bigMap {
+
+    min-height:1000px; 
+    min-width:1000px;
+    border: 2px solid gray;
+    padding: 25px;
+    margin:25px;
+    margin-left: 470px;
+    display: inline-block;
+  
+    
+}
+
+
+
 
 img {
-    height: 200px;
-    width: 200px;
+    max-height: 200px;
+   max-width: 200px;
+
 }
