@@ -11,3 +11,16 @@ h1{
 h2{
 	color: white;
 }
+
+div{
+	background-color: grey;
+	border: 2px solid black;
+	padding: 150px;
+	margin: 150px;
+	height: 300px;
+
+}
+
+#tilbage{
+	margin-right: 1445px;
+}
